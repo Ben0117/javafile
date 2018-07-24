@@ -17,7 +17,7 @@ To view version history and projected future releases, please see the `releasehi
 All release code is in `Releases/Release x`, in which `x` is replaced with your version number.
 
 ## Betas
-I try to release a new beta build 2 or 3 times a week.
+I try to release a new beta build every day or so.
 
 To view beta history, please see the `betahist.txt` file.
 
