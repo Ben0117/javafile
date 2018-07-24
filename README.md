@@ -12,14 +12,14 @@ If you would like to join the team, please send an email to bentube0117@gmail.co
 ## Releases
 I try to release a new version every week until we hit version 1.0, then the scheduele will change.
 
-To view version history and projected future releases, please see the `version.txt` file.
+To view version history and projected future releases, please see the `releasehist.txt` file.
 
 All release code is in `Releases/Release x`, in which `x` is replaced with your version number.
 
 ## Betas
 I try to release a new beta build 2 or 3 times a week.
 
-Beta history is not in any file, but may be added in the future,
+To view beta history, please see the `betahist.txt` file.
 
 All beta code is in `Betas/Beta x`, in which `x` is replaced with the version number of the version the beta is testing.
 
