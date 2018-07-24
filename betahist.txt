@@ -1,3 +1,4 @@
 Beta History
 
 b072318 - July 23, 2018 - Beta 1.0
+b072418 - July 24, 2018 - Beta 1.0
