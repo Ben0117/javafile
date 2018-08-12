@@ -10,7 +10,7 @@ I have added the .class file just in case you need it.
 If you would like to join the team, please send an email to bentube0117@gmail.com.
 
 ## Releases
-I try to release a new version every week until we hit version 1.0, then the scheduele will change.
+Since version 1.0 has released, we will occasionally release new versions.
 
 To view version history and projected future releases, please see the `releasehist.txt` file.
 
